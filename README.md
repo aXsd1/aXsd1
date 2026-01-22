@@ -1,18 +1,7 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello,+I'm+aXsd1+👋;Full+Stack+Developer;Open+Source+Enthusiast;I+love+building+cool+stuff!&height=50" alt="Typing SVG" />
-</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aXsd1&label=Profile+Views&color=0e75b6&style=flat" alt="aXsd1" />
-</p>
-
----
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=aXsd1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</a>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=aXsd1&fontSize=90&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Innovator&descAlignY=55&descAlign=50&animation=twinkling)
 
 <br/>
 
@@ -55,13 +44,5 @@
 </div>
 
 <br/>
-
-## ⏳ Weekly Coding Activity
-
-<br/>
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> <br> – Cory House
-</div>
 
 </div>
