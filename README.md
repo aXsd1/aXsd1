@@ -20,7 +20,6 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aXsd1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Streak" />
 
 <br/>
 <br/>
